@@ -1,4 +1,4 @@
-During our 8-week micro-internship session, we worked to create automated software test cases to examine and assess the functionality of the website: https://practice.sdetunicorns.com/
+During our 8-week internship session, we worked to create automated software test cases to examine and assess the functionality of the website: https://practice.sdetunicorns.com/
 
 We utilized JavaScript and WebdriverIO to create test cases for the home page, about page, contact page, and blog page. 
 
